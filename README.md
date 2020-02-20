@@ -1,1 +1,3 @@
 # Modeling-Simulation-and-Decision-Making
+
+Learn how to apply advanced modeling techniques to analyze and predict the behavior of social, physical and economic systems. You will learn from specific examples applied to portfolio management, traffic flow management, and analyzing social networks. The course covers three modeling frameworks — cellular automata for modeling interactions on grids of cells, networks for more general interactions between nodes in a graph, and Monte Carlo simulations showing how we can use simulation to generate random numbers and how we can use random numbers to drive simulations of complex phenomena. The course covers the theoretical (mathematical) and practical (implementation) aspects of each of the three frameworks.
